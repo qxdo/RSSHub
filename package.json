@@ -52,7 +52,7 @@
     "dependencies": {
         "@hono/node-server": "1.11.1",
         "@hono/swagger-ui": "0.2.2",
-        "@hono/zod-openapi": "0.12.0",
+        "@hono/zod-openapi": "0.12.1",
         "@notionhq/client": "2.2.15",
         "@postlight/parser": "2.2.3",
         "@sentry/node": "7.114.0",
@@ -116,7 +116,7 @@
         "tldts": "6.1.20",
         "tosource": "2.0.0-alpha.3",
         "tough-cookie": "4.1.4",
-        "tsx": "4.10.2",
+        "tsx": "4.10.3",
         "twitter-api-v2": "1.16.4",
         "undici": "6.16.1",
         "uuid": "9.0.1",
